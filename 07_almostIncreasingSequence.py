@@ -1,11 +1,9 @@
 def almostIncreasingSequence(sequence):
-
     def increasing(test):
             for i in range(0, len(test) - 1):
                 if test[i] >= test[i+1]:
                     return False
             return True
-    
     for i in range(0, len(sequence) - 1):
         if sequence[i] >= sequence[i+1]:
             test1 = sequence[:i] + sequence[i+1:]
