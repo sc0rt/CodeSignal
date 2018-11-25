@@ -1,3 +1,3 @@
-# CodeSignalArcadeIntro /n
-My solutions to Code Signal's Arcade Intro challenges. /n
+# CodeSignalArcadeIntro 
+My solutions to Code Signal's Arcade Intro challenges. 
 Written in Python3
