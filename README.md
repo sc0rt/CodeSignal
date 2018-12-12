@@ -1,3 +1,3 @@
 # CodeSignalArcadeIntro 
-My solutions to Code Signal's Arcade Intro challenges. 
+My first attempt at working solutions to CodeSignal's Arcade Intro challenges. (Previously CodeFights)
 Written in Python3
